@@ -1,0 +1,11 @@
+{
+  "name": "lala_tech_backend",
+  "version": "1.0.0",
+  "description": "Backend Api for LALA TECH website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LALA TECH",
+  "license": "ISC"
+}
